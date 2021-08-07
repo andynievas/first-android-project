@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstAndroidProject</string>
+    <string name="app_title">Bienvenido</string>
+    <string name="img_description">App background, marcianito Android.</string>
+    <string name="btn_text">Entrar</string>
+</resources>

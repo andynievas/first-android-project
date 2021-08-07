@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">Willkommen</string>
+    <string name="img_description">App background, marcianito Android.</string>
+    <string name="btn_text">Betreten</string>
+</resources>
